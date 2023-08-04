@@ -1,2 +1,2 @@
-#This isthe project on shell permission
-This directory comtains files for learning
+0x01. Shell, permissions
+Task for ALX
